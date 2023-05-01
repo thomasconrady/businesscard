@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Conrady;Thomas;;;
+FN:Thomas Conrady
+ORG:fast2work
+ADR;TYPE=WORK:
+TITLE:VP Operations
+TEL;TYPE=CELL:+49(0)15117996412
+TEL;TYPE=WORK:+49(0)441998580-14
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+49(0)15117996412
+EMAIL;TYPE=WORK:thomas.conrady@fast2work.de 
+URL;TYPE=Digital Business Card:
+URL:https://www.fast2work.de/ 
+URL;TYPE=Website:https://www.fast2work.de/ 
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:"Your experts for mobility data and software development!With you, we make bicycle the No. 1 means of transport in Germany."
+UID:EnBizCard-100578929
+END:VCARD
